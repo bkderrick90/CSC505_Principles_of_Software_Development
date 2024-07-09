@@ -1,2 +1,2 @@
-<h1>CSC505_Principles_of_Software_Development</h1>
+<h1>CSC505 Principles of Software Development</h1>
 
